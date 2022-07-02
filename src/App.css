@@ -22,7 +22,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #FF2625;
+  color: #000000;
   font-size: 25px;
   border-radius: 4px;
   position: absolute;
@@ -61,6 +61,10 @@ body {
   height: 900px;
   margin-top: -265px;
 
+}
+
+.MuiBox-root.css-1bfz5mc{
+  margin-bottom: 4rem;
 }
 
 .exercise-card {
