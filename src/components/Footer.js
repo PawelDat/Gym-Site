@@ -4,11 +4,9 @@ import Logo from "../assets/images/Logo.png";
 
 const Footer = () => {
   return (
-    <Box mt="80px" bgcolor="#"
-    alignItems="center"
-    >
+    <Box mt="80px" bgcolor="#" alignItems="center">
       <Stack
-      flexDirection="row"
+        flexDirection="row"
         gap="40px"
         px="40px"
         pt="24px"
